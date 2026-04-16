@@ -1,3 +1,107 @@
+# ⚡ Taksh Rathod
+
+**Full-Stack Developer | AI/ML Builder**
+
+---
+
+## 🧠 About Me
+
+I build **practical systems**, not just tutorial projects.
+
+Current focus:
+
+* Multi-label medical image classification (CNN)
+* Full-stack web applications (React + Node.js)
+* AI-driven product ideas (habit tracking system)
+
+---
+
+## 🚀 Featured Project
+
+### 🫁 Automated Chest X-ray Analysis
+
+Multi-label CNN model trained on NIH ChestX-ray dataset to predict multiple thoracic diseases.
+
+**Key Features:**
+
+* Multi-label classification (14 disease categories)
+* Handles overlapping conditions using sigmoid output
+* Trained on real-world imbalanced dataset
+* Outputs probability scores per disease
+
+**Tech Stack:**
+
+* Python, TensorFlow / PyTorch
+* OpenCV
+* NumPy, Pandas
+
+**Current Limitations:**
+
+* No clinical validation (research prototype only)
+* Limited generalization testing
+* No deployment yet
+
+👉 Focused on improving explainability and real-world robustness
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+JavaScript, Python
+
+**Frontend**
+React, HTML, CSS
+
+**Backend**
+Node.js, Express
+
+**Machine Learning**
+TensorFlow / PyTorch, OpenCV
+
+**Database**
+MongoDB, SQLite
+
+---
+
+## 📊 What I Actually Know
+
+* CNN architectures (basic + transfer learning)
+* Multi-label classification
+* Data preprocessing & handling imbalance
+* REST API basics
+* Frontend-backend integration
+
+---
+
+## ⚠️ What I’m Improving
+
+* Model evaluation (AUC, F1, calibration)
+* Explainable AI (Grad-CAM)
+* Deployment (ML + web apps)
+* Building production-ready systems
+
+---
+
+## 🎯 Current Goal
+
+Build and deploy:
+
+> AI-powered applications that combine **ML models + real user interfaces**
+
+---
+
+## 📬 Connect
+
+* GitHub: https://github.com/1Taksh
+
+---
+
+## 💥 Philosophy
+
+No fluff.
+No fake claims.
+Only proof through projects.
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
 </div>
